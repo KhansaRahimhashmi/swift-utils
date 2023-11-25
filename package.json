@@ -1,0 +1,22 @@
+{
+  "name": "@khansarahim/testing-folder",
+  "version": "1.0.0",
+  "description": "is-wds-checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhansaRahimhashmi/swift-utils.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Khansa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhansaRahimhashmi/swift-utils/issues"
+  },
+  "homepage": "https://github.com/KhansaRahimhashmi/swift-utils#readme"
+}
